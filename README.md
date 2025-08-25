@@ -50,15 +50,3 @@ Stakeholders expected the dashboard to answer:
 🔗 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lE3Z2NFN0zqXplKOfdrBPSHJvCaDO2RS?usp=sharing)  
 
 ---
-
-## 📸 Dashboard Preview  
-*(Add your dashboard screenshot here after uploading to GitHub)*  
-
----
-
-## 🤝 Connect with Me  
-If you liked this project or have suggestions, feel free to connect!  
-
-- 💼 [LinkedIn](#)  
-- 🐙 [GitHub](#)  
-- ✉️ your-email@example.com  
