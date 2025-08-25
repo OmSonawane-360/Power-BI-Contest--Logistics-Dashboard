@@ -1,16 +1,64 @@
-Use Case: Logistics
+# 📦 Logistics OTIF Analysis Dashboard  
 
-PROBLEM STATEMENT:
+## 📌 Project Overview  
+This project focuses on **On-Time In-Full (OTIF) Analysis**, a key metric in the **logistics & supply chain industry**. OTIF measures a supplier’s ability to deliver products **within the prescribed delivery window and at full quantities ordered**.  
 
-A logistics and supply chain company wants to make a dashboard for OTIF Analysis. On-time in-full (OTIF) is a supply chain metric for measuring performance in the logistics industry. OTIF generally refers to a supplier’s ability to deliver product within prescribed delivery windows and at full quantities ordered. OTIF was designed to improve store operations within Walmart itself and quickly led to a series of major changes as it was quickly adopted by other retailers and companies. So they have given data which considers 4 sheets. They are Orders, Salesperson, Customer and City. 
+Using **Power BI**, I designed an interactive dashboard that provides **insights into logistics performance, delivery status, KPIs, and key influencers**.  
 
-Expectations of Stakeholders are:-  
-1. Make various KPIs.
-2. Explain the OTIF Performance over Time
-3. What is the Order delivery status over Time?
-4 What are the Highest OTIF Performances?
-5. Do something with Key Influencers and other advanced visualizations.
+---
 
-These are some of the features stakeholders want from their Data Analyst. You have to add your own creative features as well.
+## 🎯 Problem Statement  
+A logistics and supply chain company wanted to track and analyze **OTIF performance** across their operations.  
+Stakeholders expected the dashboard to answer:  
 
-Dataset Link: https://drive.google.com/drive/folders/1lE3Z2NFN0zqXplKOfdrBPSHJvCaDO2RS?usp=sharing
+1. 📊 What are the **key KPIs** for logistics performance?  
+2. ⏳ How does **OTIF performance trend over time**?  
+3. 🚚 What is the **order delivery status** over time?  
+4. 🏆 Which are the **highest OTIF performances** (salesperson, city, customer)?  
+5. 🔎 Can we use **Key Influencers & advanced visualizations** to discover hidden insights?  
+
+---
+
+## ⚡ Features of the Dashboard  
+✅ **KPIs** – OTIF%, On-Time Delivery Rate, In-Full Rate, Order Count  
+✅ **Trend Analysis** – OTIF performance over time  
+✅ **Delivery Status Monitoring** – Order delays & fulfillment analysis  
+✅ **Top Performers** – Cities, customers, and salespersons with best OTIF rates  
+✅ **Key Influencers** – Factors affecting OTIF delivery performance  
+✅ **Interactive Filters** – Explore performance by city, salesperson, or customer  
+✅ **Creative Visuals** – Used custom visuals to enhance storytelling  
+
+---
+
+## 🛠️ Tools & Technologies  
+- 📌 **Power BI** – Dashboard creation & visualization  
+- 📊 **Excel / CSV Data** – Dataset preparation  
+- 🧹 **Power Query** – Data transformation & cleaning  
+- 🧠 **DAX (Data Analysis Expressions)** – Calculations & KPIs  
+
+---
+
+## 🚀 Learnings & Takeaways  
+- Gained deeper understanding of **supply chain analytics**.  
+- Learned how to design **business-focused KPIs**.  
+- Hands-on experience with **Key Influencers visualization** in Power BI.  
+- Strengthened my passion for **data analytics & problem-solving**.  
+
+---
+
+## 📂 Dataset  
+🔗 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lE3Z2NFN0zqXplKOfdrBPSHJvCaDO2RS?usp=sharing)  
+
+---
+
+## 📸 Dashboard Preview  
+*(Add your dashboard screenshot here after uploading to GitHub)*  
+
+---
+
+## 🤝 Connect with Me  
+If you liked this project or have suggestions, feel free to connect!  
+
+- 💼 [LinkedIn](#)  
+- 🐙 [GitHub](#)  
+- ✉️ your-email@example.com  
